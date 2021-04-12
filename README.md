@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Stats
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itswrath&show_icons=true&theme=react)
