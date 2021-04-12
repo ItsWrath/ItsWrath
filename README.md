@@ -1,5 +1,7 @@
 ### Brief Description
-FiveM Server Owner and Developer, Enjoy Coding and Looking To Learn New Languages
+FiveM Server Owner and Developer 
+Enjoy Coding and Looking To Learn New Languages
+Enjoy Creating Content On YouTube To Help Others
 
 ### My Stats
 
