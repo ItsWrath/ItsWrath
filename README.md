@@ -1,7 +1,7 @@
 ### Brief Description
 - FiveM Server Owner and Developer 
 - Enjoy Coding
-- Enjoy Creating Content On YouTube To Help Others
+- Enjoy Creating Content On YouTube
 
 ### My Stats
 
