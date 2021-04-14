@@ -1,6 +1,6 @@
 ### Brief Description
 - FiveM Server Owner and Developer 
-- Enjoy Coding and Looking To Learn New Languages
+- Enjoy Coding
 - Enjoy Creating Content On YouTube To Help Others
 
 ### My Stats
