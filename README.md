@@ -1,7 +1,5 @@
 ## Brief Description
-- Owner and Developer Of [WSRP](https://discord.gg/yTUdTCG)
-- Enjoy Coding
-- Enjoy Creating Content On YouTube
+- I Own and Develop [WSRP](https://discord.gg/yTUdTCG), I enjoy coding, and sometimes post on YouTube
 
 ## My Stats
 
