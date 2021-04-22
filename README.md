@@ -1,5 +1,5 @@
 ## Brief Description
-- I Own and Develop [WSRP](https://discord.gg/yTUdTCG), I enjoy coding, and sometimes post on YouTube
+- I own and develop [WSRP](https://discord.gg/yTUdTCG), I enjoy coding, and sometimes post on YouTube
 
 ## My Stats
 
