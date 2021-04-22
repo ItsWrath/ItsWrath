@@ -1,5 +1,5 @@
 ## Brief Description
-- Owner and Developer Of [Wisconsin State Roleplay](https://discord.gg/yTUdTCG)
+- Owner and Developer Of [WSRP](https://discord.gg/yTUdTCG)
 - Enjoy Coding
 - Enjoy Creating Content On YouTube
 
