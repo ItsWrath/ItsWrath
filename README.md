@@ -9,3 +9,5 @@
 
 ## Languages
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
